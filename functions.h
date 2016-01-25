@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <cuda.h>
-#include <qdbmp/qdbmp.h>
+#include "qdbmp.h"
 #include <thrust/remove.h>
 #include <thrust/functional.h>
 #include <thrust/execution_policy.h>

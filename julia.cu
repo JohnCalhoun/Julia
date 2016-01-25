@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cuda.h>
-#include <qdbmp/qdbmp.h>
+#include "qdbmp.h"
 #include "functions.h"
 #include <string>
 #define __both__ __device__ __host__
